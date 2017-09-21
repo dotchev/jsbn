@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/andyperlitch/jsbn.git"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "biginteger",
     "bignumber",
